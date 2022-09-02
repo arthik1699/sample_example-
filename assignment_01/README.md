@@ -5,5 +5,5 @@
 
 1. hello world
 2. how are you?
- ![hello](C:\Users\arthi\OneDrive\Pictures\1.jpg)
+ ![hello](https://github.com/arthik1699/sample_example-/blob/main/assignment_01/1.jpg)
 3. bye
