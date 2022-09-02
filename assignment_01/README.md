@@ -5,5 +5,5 @@
 
 1. hello world
 2. how are you?
- ![hello, ](/sample_example-/assignment_01/1.jpg)
+ ![hello]("C:\Users\arthi\OneDrive\Pictures\1.jpg")
 3. bye
