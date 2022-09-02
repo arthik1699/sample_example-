@@ -5,5 +5,5 @@
 
 1. hello world
 2. how are you?
- ![hello, ](/assests/images/1.jpg)
+ ![hello, ](/sample_example-/assignment_01/1.jpg)
 3. bye
