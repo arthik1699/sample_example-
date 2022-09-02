@@ -5,5 +5,5 @@
 
 1. hello world
 2. how are you?
- ![hello](1.jpg)
+ ![hello](2.jpg)
 3. bye
